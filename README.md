@@ -28,7 +28,7 @@
 ### 📊 Mis Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexddios4&theme=radical&hide_border=true" alt="Racha de contribuciones" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexddios&theme=radical&hide_border=true" alt="Racha de contribuciones" />
 </div>
 
 ---
