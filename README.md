@@ -11,7 +11,6 @@
 ### 👨‍💻 Sobre Mí
 
 * 🔭 Cursando **2º de Desarrollo de Aplicaciones Multiplataforma** en el **CIFP Francesc de Borja Moll**.
-* 🚀 Desarrollando mi proyecto intermodular: una app de mantenimiento y gestión de documentación de vehículos.
 * 🌱 Profundizando en el stack móvil y backend con **React Native, Expo, Kotlin y Java**.
 * 📝 Organizando mis apuntes y arquitectura con **Obsidian** y diagramas **Mermaid**.
 * ⚡ Dato curioso: **Me encanta picar código y odio los diagramas**.
